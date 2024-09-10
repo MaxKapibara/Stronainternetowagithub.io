@@ -1,0 +1,107 @@
+body
+
+{
+background: url(t%C5%82o.webp);
+color:white;
+font-size: 24px;
+font-family: monospace;
+}
+
+
+.zdj
+
+{
+    width: 500px;
+    border: 30px solid darkblue;
+}
+
+table
+{
+    border: 2px solid darkblue;
+    width:800px;
+}
+
+th
+
+{
+    border: 5px solid darkblue;
+}
+
+td
+
+{
+    border: 5px solid darkblue;
+}
+
+h1
+
+{
+ font-size: 32px;   
+ font-weight: 400;
+ font-variant-caps: normal
+}
+
+h2
+
+{
+    font-size: 22px;
+}
+
+caption 
+
+{
+    font-size: 26px;
+    font-weight: 400;
+}
+
+h3 
+{
+    font-size: 30px;
+    width: 80;
+}
+#wszystko
+{   
+ margin-left: 20px;
+ margin-right: 20px; 
+}
+#menu
+{   width: 100%;
+    text-align: center;
+    top:0;
+    left:0;
+    padding 0 3rem;
+    border-radius: 0px;
+    background-color: darkblue;
+    
+}
+#opis
+{   
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid: darkblue;
+    
+}
+#stópka {
+    height: 20px;
+    padding: 5px;
+    width: auto;
+    text-align:center;
+    border-radius: 5px;
+    background-color: darkblue; 
+    font-size: 16px; 
+}
+a 
+{
+  color: lightgray;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+a:visited 
+{
+    color:black;
+    text-decoration: none;
+}
+a:hover
+{
+    color:darkgray;
+}
